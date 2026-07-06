@@ -46,8 +46,8 @@ Whether viewed on a desktop, tablet, or smartphone, the website delivers a seaml
 
 | Technology | Purpose       |
 | ---------- | ------------- |
-| HTML5      | Structure     |
-| CSS3       | Styling       |
+| HTML    | Structure     |
+| CSS     | Styling       |
 | JavaScript | Interactivity |
 
 
