@@ -61,9 +61,7 @@ Foodie-Delight/
 ├── style.css
 ├── script.js
 ├── README.md
-│
-└──
-m
+
 
 ## 📱 Responsive Design
 
