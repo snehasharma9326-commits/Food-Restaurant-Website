@@ -15,7 +15,7 @@
 
 </p>
 
----
+
 
 ## 📖 About The Project
 
@@ -23,7 +23,7 @@
 
 Whether viewed on a desktop, tablet, or smartphone, the website delivers a seamless browsing experience.
 
----
+
 
 ## ✨ Features
 
@@ -40,7 +40,7 @@ Whether viewed on a desktop, tablet, or smartphone, the website delivers a seaml
 * 📱 Mobile Friendly Design
 * ⬆️ Back to Top Button
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -50,65 +50,29 @@ Whether viewed on a desktop, tablet, or smartphone, the website delivers a seaml
 | CSS3       | Styling       |
 | JavaScript | Interactivity |
 
----
 
-## 📂 Project Structure
+## 📁 Project Structure
 
-```text
+
 Foodie-Delight/
-│
 ├── index.html
 ├── style.css
 ├── script.js
 ├── README.md
 
 
-## 📱 Responsive Design
-
-✔ Desktop
-
-✔ Laptop
-
-✔ Tablet
-
-✔ Mobile
-
----
-
-## 🎯 Future Enhancements
-
-* 🛒 Online Food Ordering
-* ❤️ Wishlist
-* 🔍 Search Menu
-* 💳 Payment Gateway
-* 📍 Google Maps Integration
-* ⭐ Customer Reviews Slider
-* 🌙 Dark / Light Mode
-
----
-
 ## 👩‍💻 Author
 
 **Shalini Sharma**
 
-🎓 B.Tech – Computer Science Engineering (Data Analytics)
+B.Tech (CSE – Data Analytics)
 
-💻 Passionate about Frontend Development, Programming & Data Analytics
+## ⭐ Support
 
----
+If you like this project, give it a ⭐ on GitHub.
 
-## ⭐ Show Your Support
 
-If you like this project,
+Made with ❤️ using HTML, CSS & JavaScript.
 
-🌟 **Star this repository**
 
-🍴 **Fork this repository**
 
-🤝 **Contribute to improve it**
-
----
-
-<p align="center">
-❤️ Made with HTML, CSS & JavaScript ❤️
-</p>
