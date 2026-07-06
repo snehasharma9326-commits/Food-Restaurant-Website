@@ -53,9 +53,7 @@ Whether viewed on a desktop, tablet, or smartphone, the website delivers a seaml
 
 ## 📁 Project Structure
 
-
-Foodie-Delight
-
+Foodie-Delight/
 ├── index.html
 ├── style.css
 ├── script.js
