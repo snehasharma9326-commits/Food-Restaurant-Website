@@ -1,105 +1,100 @@
-```markdown
-# 🍽️ Foodie Delight - Responsive Restaurant Website
+# 🍽️ Foodie Delight
 
-A modern and fully responsive restaurant website built using **HTML, CSS, and JavaScript**. The project features a clean user interface, smooth navigation, interactive sections, and a mobile-friendly design to provide an excellent user experience.
-
----
-
-## 📸 Preview
-
-> A responsive restaurant website showcasing delicious food, elegant design, and an engaging user experience.
+A modern and fully responsive **Restaurant Website** built using **HTML, CSS, and JavaScript**. This project showcases a clean and elegant user interface with smooth navigation, attractive food sections, and a mobile-friendly layout.
 
 ---
 
-## 🚀 Features
+## 🌟 Features
 
-- 🍔 Responsive Navigation Bar
-- 🏠 Hero Section with Background Image
-- 👨‍🍳 About Us Section
-- 🍕 Popular Menu Cards
-- 🖼️ Food Gallery
-- 📞 Contact & Reservation Form
-- 📱 Fully Responsive Design
-- ✨ Smooth Scrolling
-- 📌 Sticky Navigation Bar
-- 🎨 Hover Animations & Effects
-- ⬆️ Back-to-Top Button
-- 🌙 Modern Dark Theme
-- 💻 Clean and Well-Structured Code
+* 🍔 Responsive Navigation Bar
+* 🏠 Hero Section with Background Image
+* 👨‍🍳 About Us Section
+* 🍕 Popular Menu Cards
+* 🖼️ Food Gallery
+* 📞 Contact & Reservation Form
+* 📱 Fully Responsive Design
+* ✨ Smooth Scrolling
+* 📌 Sticky Navigation Bar
+* 🎨 Hover Effects & Animations
+* ⬆️ Back-to-Top Button
+* 🌙 Modern Dark Theme
 
 ---
 
-## 🛠️ Built With
+## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript (ES6)
+* HTML5
+* CSS3
+* JavaScript (ES6)
 
 ---
 
 ## 📂 Project Structure
 
-```
-
+```text
 Foodie-Delight/
 │── index.html
 │── style.css
 │── script.js
 │── README.md
 │
+└── 
 
 ---
 
-## 🎯 Website Sections
+## 📸 Website Sections
 
-- 🏠 Home
-- 🍽️ About
-- 🍕 Menu
-- 🖼️ Gallery
-- 📞 Contact
-- 📩 Reservation Form
-- 📍 Footer
+* 🏠 Home
+* 👨‍🍳 About
+* 🍕 Menu
+* 🖼️ Gallery
+* 📞 Contact
+* 📩 Reservation Form
+* 📍 Footer
 
 ---
 
 ## 📱 Responsive Design
 
-The website is optimized for:
+This website is fully responsive and works perfectly on:
 
-- 💻 Desktop
-- 💼 Laptop
-- 📱 Mobile
-- 📟 Tablet
+* 💻 Desktop
+* 💼 Laptop
+* 📱 Mobile
+* 📟 Tablet
 
 ---
 
-## ✨ Future Improvements
 
-- 🛒 Online Food Ordering
-- ❤️ Wishlist
-- 🔍 Search Menu
-- 🌙 Dark / Light Mode
-- ⭐ Customer Reviews Slider
-- 💳 Online Payment Integration
-- 📍 Google Maps Integration
-- 📦 Shopping Cart
-- 🔐 User Login & Registration
+---
+
+## 💡 Future Improvements
+
+* 🛒 Online Ordering System
+* ❤️ Wishlist
+* 🔍 Search Menu
+* 🌙 Dark/Light Mode
+* ⭐ Customer Reviews Slider
+* 📍 Google Maps Integration
+* 💳 Payment Gateway
+* 📦 Shopping Cart
+
+---
 
 ## 👩‍💻 Author
 
 **Shalini Sharma**
 
-B.Tech (CSE - Data Analytics)
+🎓 B.Tech (Computer Science Engineering – Data Analytics)
 
-Passionate about Frontend Development, Programming, and Data Analytics.
+💻 Passionate about Frontend Development, Programming, and Data Analytics.
 
 ---
 
 ## ⭐ Support
 
-If you found this project helpful, don't forget to **⭐ Star this repository** and share it with others.
+If you like this project, don't forget to **⭐ Star** this repository.
 
 ---
 
-### 🍴 "Serving Happiness, One Plate at a Time."
-```
+### 🍴 *Serving Happiness, One Plate at a Time.*
