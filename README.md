@@ -1,31 +1,54 @@
 # 🍽️ Foodie Delight
 
-A modern and fully responsive **Restaurant Website** built using **HTML, CSS, and JavaScript**. This project showcases a clean and elegant user interface with smooth navigation, attractive food sections, and a mobile-friendly layout.
+<p align="center">
+  <b>A Modern & Responsive Restaurant Website</b><br>
+  Built using <b>HTML • CSS • JavaScript</b>
+</p>
+
+<p align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Project-Completed-blue?style=for-the-badge)
+
+</p>
 
 ---
 
-## 🌟 Features
+## 📖 About The Project
+
+**Foodie Delight** is a modern, responsive restaurant website designed to provide an engaging and visually appealing dining experience. The website features a clean user interface, attractive food sections, smooth scrolling, animations, and a mobile-friendly layout.
+
+Whether viewed on a desktop, tablet, or smartphone, the website delivers a seamless browsing experience.
+
+---
+
+## ✨ Features
 
 * 🍔 Responsive Navigation Bar
-* 🏠 Hero Section with Background Image
-* 👨‍🍳 About Us Section
-* 🍕 Popular Menu Cards
+* 🏠 Hero Section
+* 👨‍🍳 About Section
+* 🍕 Popular Menu
 * 🖼️ Food Gallery
-* 📞 Contact & Reservation Form
-* 📱 Fully Responsive Design
+* 📞 Contact Section
+* 📝 Reservation Form
+* 📌 Sticky Navigation
 * ✨ Smooth Scrolling
-* 📌 Sticky Navigation Bar
-* 🎨 Hover Effects & Animations
-* ⬆️ Back-to-Top Button
-* 🌙 Modern Dark Theme
+* 🎨 Hover Effects
+* 📱 Mobile Friendly Design
+* ⬆️ Back to Top Button
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies Used
 
-* HTML5
-* CSS3
-* JavaScript (ES6)
+| Technology | Purpose       |
+| ---------- | ------------- |
+| HTML5      | Structure     |
+| CSS3       | Styling       |
+| JavaScript | Interactivity |
 
 ---
 
@@ -33,51 +56,36 @@ A modern and fully responsive **Restaurant Website** built using **HTML, CSS, an
 
 ```text
 Foodie-Delight/
-│── index.html
-│── style.css
-│── script.js
-│── README.md
 │
-└── 
-
----
-
-## 📸 Website Sections
-
-* 🏠 Home
-* 👨‍🍳 About
-* 🍕 Menu
-* 🖼️ Gallery
-* 📞 Contact
-* 📩 Reservation Form
-* 📍 Footer
-
----
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+│
+└──
+m
 
 ## 📱 Responsive Design
 
-This website is fully responsive and works perfectly on:
+✔ Desktop
 
-* 💻 Desktop
-* 💼 Laptop
-* 📱 Mobile
-* 📟 Tablet
+✔ Laptop
 
----
+✔ Tablet
 
+✔ Mobile
 
 ---
 
-## 💡 Future Improvements
+## 🎯 Future Enhancements
 
-* 🛒 Online Ordering System
+* 🛒 Online Food Ordering
 * ❤️ Wishlist
 * 🔍 Search Menu
-* 🌙 Dark/Light Mode
-* ⭐ Customer Reviews Slider
-* 📍 Google Maps Integration
 * 💳 Payment Gateway
-* 📦 Shopping Cart
+* 📍 Google Maps Integration
+* ⭐ Customer Reviews Slider
+* 🌙 Dark / Light Mode
 
 ---
 
@@ -85,16 +93,24 @@ This website is fully responsive and works perfectly on:
 
 **Shalini Sharma**
 
-🎓 B.Tech (Computer Science Engineering – Data Analytics)
+🎓 B.Tech – Computer Science Engineering (Data Analytics)
 
-💻 Passionate about Frontend Development, Programming, and Data Analytics.
-
----
-
-## ⭐ Support
-
-If you like this project, don't forget to **⭐ Star** this repository.
+💻 Passionate about Frontend Development, Programming & Data Analytics
 
 ---
 
-### 🍴 *Serving Happiness, One Plate at a Time.*
+## ⭐ Show Your Support
+
+If you like this project,
+
+🌟 **Star this repository**
+
+🍴 **Fork this repository**
+
+🤝 **Contribute to improve it**
+
+---
+
+<p align="center">
+❤️ Made with HTML, CSS & JavaScript ❤️
+</p>
